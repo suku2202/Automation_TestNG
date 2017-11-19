@@ -23,6 +23,10 @@ public class FirstTest {
 	  System.out.println("test 4");
   }
 
+ @Test
+  public void test5() {
+	  System.out.println("test 5");
+  }
 
 
 }
