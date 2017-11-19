@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1">
+	<test name="no package">
+		<classes>
+			<class name="com.yashu.automation.testng.FirstTest" />
+		</classes>
+	</test>
+</suite>
